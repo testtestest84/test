@@ -1,1 +1,121 @@
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : ES42-V7RFV6R
+   Primary Dns Suffix  . . . . . . . : EUC.nestle.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : nestle.com
+                                       euc.nestle.com
+                                       es.nestle.com
+                                       eur.nestle.com
+                                       ams.nestle.com
+                                       aoa.nestle.com
+                                       ctr.nestle.com
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : PANGP Virtual Ethernet Adapter Secure
+   Physical Address. . . . . . . . . : 02-50-41-00-00-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.94.134.146(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 100814913
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
+   DNS Servers . . . . . . . . . . . : 10.94.143.1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (16) I219-LM
+   Physical Address. . . . . . . . . : E0-73-E7-DC-E2-A9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 4:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-04
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::41d8:5c80:49d4:fcd6%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1225392167
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Wireless LAN adapter Conexi�n de �rea local* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 30-05-05-C1-FD-5A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Conexi�n de �rea local* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 32-05-05-C1-FD-59
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : home
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Physical Address. . . . . . . . . : BE-6B-C7-AD-79-0C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::3fac:9403:ac1b:f42c%32(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.131(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, March 21, 2024 6:04:46 PM
+   Lease Expires . . . . . . . . . . : Friday, March 22, 2024 6:04:49 PM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 405800197
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
+   DNS Servers . . . . . . . . . . . : 212.230.135.2
+                                       212.230.135.1
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Ethernet adapter Conexi�n de red Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 30-05-05-C1-FD-5D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Mobile Broadband adapter Red de telefon�a m�vil:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Generic Mobile Broadband Adapter
+   Physical Address. . . . . . . . . : 8C-9D-8B-50-5A-51
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>

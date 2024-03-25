@@ -75,7 +75,7 @@ Wireless LAN adapter Wi-Fi:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
 
-Wireless LAN adapter Conexión de área local* 1:
+Wireless LAN adapter Conexi�n de �rea local* 1:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -84,7 +84,7 @@ Wireless LAN adapter Conexión de área local* 1:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
 
-Wireless LAN adapter Conexión de área local* 2:
+Wireless LAN adapter Conexi�n de �rea local* 2:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -93,7 +93,7 @@ Wireless LAN adapter Conexión de área local* 2:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
 
-Ethernet adapter Conexión de red Bluetooth:
+Ethernet adapter Conexi�n de red Bluetooth:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -102,7 +102,7 @@ Ethernet adapter Conexión de red Bluetooth:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
 
-Mobile Broadband adapter Red de telefonía móvil:
+Mobile Broadband adapter Red de telefon�a m�vil:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 

@@ -18,21 +18,6 @@ Windows IP Configuration
                                        aoa.nestle.com
                                        ctr.nestle.com
 
-Ethernet adapter Ethernet 3:
-
-   Connection-specific DNS Suffix  . : 
-   Description . . . . . . . . . . . : PANGP Virtual Ethernet Adapter Secure
-   Physical Address. . . . . . . . . : 02-50-41-00-00-01
-   DHCP Enabled. . . . . . . . . . . : No
-   Autoconfiguration Enabled . . . . : Yes
-   IPv4 Address. . . . . . . . . . . : 10.94.134.146(Preferred) 
-   Subnet Mask . . . . . . . . . . . : 255.255.255.255
-   Default Gateway . . . . . . . . . : 
-   DHCPv6 IAID . . . . . . . . . . . : 100814913
-   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
-   DNS Servers . . . . . . . . . . . : 10.94.143.1
-   NetBIOS over Tcpip. . . . . . . . : Disabled
-
 Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
@@ -60,6 +45,36 @@ Ethernet adapter Ethernet 4:
                                        fec0:0:0:ffff::3%1
    NetBIOS over Tcpip. . . . . . . . : Disabled
 
+Ethernet adapter Ethernet 5:
+
+   Connection-specific DNS Suffix  . : nestle.com
+   Description . . . . . . . . . . . : Lenovo USB Ethernet
+   Physical Address. . . . . . . . . : 80-6D-97-47-76-5E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::cf8:2698:d1c9:5ce2%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.35.16.29(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Lease Obtained. . . . . . . . . . : Monday, March 25, 2024 9:28:13 AM
+   Lease Expires . . . . . . . . . . : Tuesday, March 26, 2024 9:28:11 AM
+   Default Gateway . . . . . . . . . : 10.35.16.1
+   DHCP Server . . . . . . . . . . . : 193.148.192.67
+   DHCPv6 IAID . . . . . . . . . . . : 780168599
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
+   DNS Servers . . . . . . . . . . . : 193.148.199.20
+                                       193.148.199.27
+                                       10.235.24.80
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : home
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Physical Address. . . . . . . . . : 30-05-05-C1-FD-59
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
 Wireless LAN adapter Conexi�n de �rea local* 1:
 
    Media State . . . . . . . . . . . : Media disconnected
@@ -77,26 +92,6 @@ Wireless LAN adapter Conexi�n de �rea local* 2:
    Physical Address. . . . . . . . . : 32-05-05-C1-FD-59
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : home
-   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
-   Physical Address. . . . . . . . . : BE-6B-C7-AD-79-0C
-   DHCP Enabled. . . . . . . . . . . : Yes
-   Autoconfiguration Enabled . . . . : Yes
-   Link-local IPv6 Address . . . . . : fe80::3fac:9403:ac1b:f42c%32(Preferred) 
-   IPv4 Address. . . . . . . . . . . : 192.168.1.131(Preferred) 
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Lease Obtained. . . . . . . . . . : Thursday, March 21, 2024 6:04:46 PM
-   Lease Expires . . . . . . . . . . : Friday, March 22, 2024 6:04:49 PM
-   Default Gateway . . . . . . . . . : 192.168.1.1
-   DHCP Server . . . . . . . . . . . : 192.168.1.1
-   DHCPv6 IAID . . . . . . . . . . . : 405800197
-   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-79-6C-11-E0-73-E7-DC-E2-A9
-   DNS Servers . . . . . . . . . . . : 212.230.135.2
-                                       212.230.135.1
-   NetBIOS over Tcpip. . . . . . . . : Disabled
 
 Ethernet adapter Conexi�n de red Bluetooth:
 

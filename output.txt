@@ -56,7 +56,7 @@ Ethernet adapter Ethernet 5:
    IPv4 Address. . . . . . . . . . . : 10.35.16.29(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.128
    Lease Obtained. . . . . . . . . . : Monday, March 25, 2024 9:28:13 AM
-   Lease Expires . . . . . . . . . . : Tuesday, March 26, 2024 9:28:11 AM
+   Lease Expires . . . . . . . . . . : Tuesday, March 26, 2024 9:28:12 AM
    Default Gateway . . . . . . . . . : 10.35.16.1
    DHCP Server . . . . . . . . . . . : 193.148.192.67
    DHCPv6 IAID . . . . . . . . . . . : 780168599

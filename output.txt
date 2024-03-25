@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.19045.4046]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>cmd /k ipconfig /all
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Release\net6.0>cmd /k ipconfig /all
 
 Windows IP Configuration
 
@@ -111,6 +111,6 @@ Mobile Broadband adapter Red de telefonía móvil:
    DHCP Enabled. . . . . . . . . . . : No
    Autoconfiguration Enabled . . . . : Yes
 
-C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
-C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
-C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0>
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Release\net6.0>
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Release\net6.0>
+C:\Users\ESSECALLOR\ConsoleApp1\ConsoleApp1\bin\Release\net6.0>
